@@ -2,7 +2,7 @@
 
 This repository contains code and resources for cleaning the FIFA21 dataset. The dataset contains information about football players, including their attributes, performance statistics, and contract details.
 
-# Methods Used
+# Methods Used: 
 
 1. Data Type Conversion: The dataset may have columns with incorrect data types. We carefully convert the data types of columns to ensure consistency and accuracy. For example, converting string representations of numbers to numeric data types.
 
